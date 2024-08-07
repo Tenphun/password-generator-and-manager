@@ -1,1 +1,1 @@
-#This is a personal project where I try to create a password generator and manager. Since keeping different passwords that are strong are especially important these days, why not create a password generator and maanger for my own personal use.
+This is a personal project where I try to create a password generator and manager. Since keeping different passwords that are strong are especially important these days, why not create a password generator and maanger for my own personal use.
